@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @val-ferreirast
-- 🌱 I’m an undergraduate student at the Faculty of Veterinary Medicine at the Nacional Autonomous University of Mexico
+hola max, estp es para compartir updates y dudas de nuestros códigos
+
 - 📫 mail: st.ferreira66@gmail.com
 
 
